@@ -1,0 +1,34 @@
+@media (max-width: 768px) {
+    .header-container-burge-item:nth-child(2) .header-container-burge-item__link {
+        font-weight: 600;
+        font-size: 20px;
+    }
+
+    /* hero */
+
+    .hero {
+        padding-top: 0px;
+        padding-bottom: 34px;
+    }
+
+    .hero-title {
+        font-weight: 600;
+        font-size: 38px;
+        line-height: 100%;
+    }
+
+    .section-title {
+        margin-bottom: 20px;
+        line-height: 100%;
+    }
+}
+
+@media (max-width: 463px) {
+    .hero-title {
+        font-size: 30px;
+    }
+
+    .section-title {
+        font-size: 25px;
+    }
+}
